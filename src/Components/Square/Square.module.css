@@ -1,0 +1,12 @@
+.Square {
+  border: 2px solid red;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  font-size: 30px;
+  cursor: pointer;
+  background-color: rgb(17, 225, 248);
+  color: black;
+  font-weight: 900;
+  border-radius: 10px;
+}

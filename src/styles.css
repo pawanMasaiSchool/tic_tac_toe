@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: linear-gradient(yellow, red);
+  padding-bottom: 50px;
+}
+.myGif {
+  width: 200px;
+  height: 80px;
+  border-radius: 50px;
+  border: 3px solid rgb(246, 7, 218);
+}
